@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\User\Downloads\IA_Semana_10_Lab_Profesor\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2347241660.index
+22699913.index
